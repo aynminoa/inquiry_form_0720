@@ -1,0 +1,58 @@
+body{
+  
+}
+
+h1{
+  text-align: center;
+  color: #008080;
+  margin-top: 60px;
+  font-family: sans-serif;
+  display: none;
+}
+
+form {
+  margin: 50px 0;
+  text-align: center;
+}
+
+.item {
+  margin-bottom: 50px;
+}
+
+.item input:focus{
+  background-color: #008080;
+}
+
+.inquiry_input input {
+  width: 300px;
+  height: 100px;
+}
+
+.inquiry_input input:focus {
+  background-color: #008080;
+}
+
+.btn {
+  display: block;
+  text-align: center;
+}
+
+.fade-in{
+  text-align: center;
+  
+}
+
+.image1 img{
+  width: 250px;
+  height: 250px;
+  display: none;
+  margin-left: 100px;
+  margin-top: -50px;
+}
+.image2 img{
+  width: 250px;
+  height: 250px;
+  display: none;
+  margin-left: 1200px;
+  margin-top: -700px;
+}
